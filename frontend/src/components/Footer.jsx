@@ -1,0 +1,1 @@
+export default function Footer() { return <footer><a className="brand" href="#top"><span>Job Matcher <em>AI</em></span></a><p>Career intelligence for your next move.</p><p className="footer-copy">© {new Date().getFullYear()} JobMatcher AI</p></footer>; }
